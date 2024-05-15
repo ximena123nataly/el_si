@@ -1,0 +1,8 @@
+com\emergentes\dao\EstuDAO.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\Aviso.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\dao\AvisoDAO.class
+com\emergentes\dao\EstuDAOimpl.class
+com\emergentes\dao\AvisoDAOimpl.class
+com\emergentes\modelo\estu.class
